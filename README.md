@@ -26,7 +26,7 @@ Flixterfilm is an app that allows users to browse movies from the [The Movie Dat
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/BMoIwjP" width=""><br>
+<img src="https://imgur.com/BMoIwjP](https://imgur.com/a/JZZFD7I)" width=""><br>
 
 ### Notes
 Understanding implementation of Recycler view is harsh.
