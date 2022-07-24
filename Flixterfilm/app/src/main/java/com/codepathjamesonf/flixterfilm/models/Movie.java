@@ -1,5 +1,7 @@
 package com.codepathjamesonf.flixterfilm.models;
 
+import androidx.constraintlayout.widget.Placeholder;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -44,4 +46,9 @@ public class Movie {
     public String getOverview() {
         return overview;
     }
-}
+
+
+    }
+
+
+
